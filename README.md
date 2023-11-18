@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/gpavana/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118787343/35928ce4-5b3d-424d-81fd-4ebb8ec76587)
 
-### Name:
-### Register Number:
+### Name: PAVANA.G
+### Register Number: 212222230105
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+Thus the simulation on the Postprocessing in additive manufacturing is completed.
